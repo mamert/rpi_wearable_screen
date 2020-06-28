@@ -2,7 +2,18 @@
 Raspberry Pi Zero W + microdisplay nad okiem
 
 ## Opis szczegółowy:
+
 ### [01_Intro](01_Intro.ipynb)
+
+Skąd pomysł
+
+### [02_Historia](02_Historia.ipynb)
+
+Pokonane perypetie
+
+### [03_Makieta](03_Makieta.pynb)
+
+Wzór, jak ma wyglądać
 
 ## Obecny stan:
  (2020-06-23)
