@@ -11,7 +11,7 @@ Skąd pomysł
 
 Pokonane perypetie
 
-### [03_Makieta](03_Makieta.pynb)
+### [03_Makieta](03_Makieta.ipynb)
 
 Wzór, jak ma wyglądać
 
