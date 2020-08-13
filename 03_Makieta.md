@@ -3,8 +3,8 @@
 Mamy więc ekranik:
 ![mikroekranik](_pics/pic_microdisp_01.jpg)
 
-I, szcęśliwie, mamy też na co go nakładać:
-![ekularochawki](_pics/pic_trekz_bare_01.jpg)
+I, szczęśliwie, mamy też na co go nakładać:
+![okularochawki](_pics/pic_trekz_bare_01.jpg)
 
 To moje okulary na astygmatyzm, złączone ze słuchawkami Trekz Titanium.<br>
 Jedyny sposób na wygodne noszenie ich razem,<br>
