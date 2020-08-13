@@ -3,22 +3,22 @@ Raspberry Pi Zero W + microdisplay nad okiem
 
 ## Opis szczegółowy:
 
-### [01_Intro](01_Intro.ipynb)
+### [01_Intro](01_Intro.md)
 
 Skąd pomysł
 
-### [02_Historia](02_Historia.ipynb)
+### [02_Historia](02_Historia.md)
 
 Pokonane perypetie
 
-### [03_Makieta](03_Makieta.ipynb)
+### [03_Makieta](03_Makieta.md)
 
 Wzór, jak ma wyglądać
 
 ## Obecny stan:
  (2020-06-23)
-![Od makiety do prototypu](nb_pics/pic_odmakietydo01.jpg)
+![Od makiety do prototypu](_pics/pic_odmakietydo01.jpg)
 
 ## Co następne:
-![Termowizja](nb_pics/pic_amg8833_02.jpg)
+![Termowizja](_pics/pic_amg8833_02.jpg)
 Tak, to moduł TERMOWIZJI!
