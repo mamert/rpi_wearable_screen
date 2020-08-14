@@ -15,6 +15,10 @@ Pokonane perypetie<br>
 Wzór, jak ma wyglądać<br>
 [![](_pics/index/tn_sec03.jpg)](03_Makieta.md)
 
+### [04_Realizacja](04_Realizacja.md)
+Od makiety do gotowca<br>
+[![](_pics/index/tn_sec04.jpg)](04_Realizacja.md)
+
 
 ## Obecny stan:
 Ten opis nie jest aktualizowany na bieżąco, lepiej mi się robi fajne rzeczy niż o tym pisze...<br>
