@@ -11,6 +11,10 @@ To supermały ekranik i soczewka.<br>
 
 Urządzenie skierowane na stół, a pokazuje rozstawione na Hackerspace małe studio fotograficzne (dziękuję bardzo, Mirek :) ) widziane przez postawioną obok kamerkę WiFi (również z Raspberry Pi)
 
+Postaram się (w końcu kiedyś) załączyć używany kod.<br>
+Chodzi jednak o to, że pokazać tam można cokolwiek. To jest po prostu ekran komputera.<br>
+Pokazuje obraz z kamerki, bo Raspberce tak kazano. Nie potrzeba nawet szczególnych sterowników, wyjście AV na 2 pinach na płytce jest w malinkowym standardzie.
+
 
 ![ekranik](_pics/pic_newdisp02.jpg)
 
