@@ -11,24 +11,19 @@ Raspberry Pi Zero W + microdisplay nad okiem
 
 ## Opis projektu:
 
-### [01_Intro](01_Intro.md)
-Skąd pomysł<br>
+### [01_Intro:	Skąd pomysł](01_Intro.md)
 [![](_pics/index/tn_sec01.jpg)](01_Intro.md)
 
-### [02_Historia](02_Historia.md)
-Pokonane perypetie<br>
+### [02_Historia:	Pokonane perypetie](02_Historia.md)
 [![](_pics/index/tn_sec02.jpg)](02_Historia.md)
 
-### [03_Makieta](03_Makieta.md)
-Wzór, jak ma wyglądać<br>
+### [03_Makieta:	Wzór kształtu](03_Makieta.md)
 [![](_pics/index/tn_sec03.jpg)](03_Makieta.md)
 
-### [04_Realizacja](04_Realizacja.md)
-Od makiety do gotowca<br>
+### [04_Realizacja:	Od makiety do gotowca](04_Realizacja.md)
 [![](_pics/index/tn_sec04.jpg)](04_Realizacja.md)
 
-### [05_Termowizja](05_Termowizja.md)
-Dołożenie termowizji<br>
+### [05_Termowizja:	Dołożenie termowizji](05_Termowizja.md)
 [![](_pics/index/tn_sec05.jpg)](05_Termowizja.md)
 
 
