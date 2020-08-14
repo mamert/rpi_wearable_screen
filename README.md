@@ -23,8 +23,11 @@ Raspberry Pi Zero W + microdisplay nad okiem
 ### [04_Realizacja:	Od makiety do gotowca](04_Realizacja.md)
 [![](_pics/index/tn_sec04.jpg)](04_Realizacja.md)
 
-### [05_Termowizja:	Dołożenie termowizji](05_Termowizja.md)
-[![](_pics/index/tn_sec05.jpg)](05_Termowizja.md)
+### [05_Kamera:	Oko dla komputerka](05_Kamera.md)
+[![](_pics/index/tn_sec05.jpg)]05_Kamera.md)
+
+### [05_Termowizja:	Dołożenie termowizji](06_Termowizja.md)
+[![](_pics/index/tn_sec06.jpg)](05_Termowizja.md)
 
 
 
