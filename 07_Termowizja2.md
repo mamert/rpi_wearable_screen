@@ -2,7 +2,7 @@
 
 AMG8833 jest fajne... ale ma rozdzielczość 8x8.
 
-FLIR Lepton. Czterocyfrowa cena, niestety...
+Dużo lepszy jest FLIR Lepton. Czterocyfrowa cena, niestety...
 
 Ale są tańsze źródła :)
 

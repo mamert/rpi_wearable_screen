@@ -16,11 +16,12 @@ Sklejone razem i uztywnione barwionym na szaro PCL.
 ![bigcam](_pics/pic_bigcam_mod_03.jpg)
 
 Co to daje? Mogę widzieć przed okiem obraz z kamerki.<br>
-Które jest przed okiem.<br>
+Kamerki która sama jest przed okiem.<br>
 ...<br>
-Z pofświetleniem IR. No, jest jakaś wartość dodana :)
+Z podświetleniem IR. No, jest jakaś wartość dodana :)
 
 Super wygląda, nie?
+
 ![bigcam](_pics/pic_bigcam_01.jpg)
 
 Tylko takie...
