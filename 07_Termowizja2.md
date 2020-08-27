@@ -12,7 +12,7 @@ Mam to oto w swoim telefonie CAT S61:
 
 Górna kamerka to właśnie Flir Lepton.
 
-S60 jest b. drogi, ale jego poprzednik - antyczny CAT S60 - schodzi poniżej 700zł, czasem.
+S61 jest b. drogi, ale jego poprzednik - antyczny CAT S60 - schodzi poniżej 700zł, czasem.
 
 A w środku siedzi moduł taki sam jak można drożej kupić.
 
