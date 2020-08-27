@@ -29,11 +29,27 @@ Raspberry Pi Zero W + microdisplay nad okiem
 ### [06_Termowizja:	Dołożenie termowizji](06_Termowizja.md)
 [![](_pics/index/tn_sec06.jpg)](05_Termowizja.md)
 
+### [07_Termowizja:	LEPSZA termowizja](07_Termowizja2.md)
+[![](_pics/index/tn_sec07.jpg)](07_Termowizja2.md)
+
 
 
 ## Obecny stan:
-Ten opis nie jest aktualizowany na bieżąco, lepiej mi się robi fajne rzeczy niż o tym pisze...<br>
-Oto co mamy teraz (2020-06-23)<br>
 
 ![Termowizja](_pics/pic_with_thermal_closeup_01.jpg)<br>
 Moduł termowizji nałożony na resztę w trakcie [Hackathonu Hack4Change](https://hack4change.tech/)<br>
+
+Oto co można dzięki temu zobaczyć:
+![Termowizja](_pics/pic_amg8833_view03.jpg)<br>
+
+
+## KOD:
+
+... kiedyś tu się zjawi.
+
+Mało faktycznego kodu, ale jest trochę konfiguracji Pi.
+
+Elementy:
+
+* odpalanie omxplayer do podglądu kamerki WiFi
+* obsługa termowizji - numpy i PIL do tworzenia obrazka i odpalania [pngview](https://github.com/AndrewFromMelbourne/raspidmx/tree/master/pngview)

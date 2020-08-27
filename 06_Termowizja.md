@@ -46,3 +46,10 @@ To pokazuje jeden z moich ekranów, i pod nim ekran laptopa<br>
 Jak widać, oa trochę się grzeją :)
 
 ![Termowizja](_pics/pic_amg8833_view03.jpg)<br>
+
+
+## Co dalej?
+
+* polepszyć wyświetlanie - zakres kolorów zamiast intensywności samego czerwonego
+* wyświetlać min/max/średnią temperaturę (pomiar z bliska jest dość precyzyjny, nie wiem, +- 2 stopnie?)
+* przyspieszyć kod
