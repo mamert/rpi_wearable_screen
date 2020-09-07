@@ -4,7 +4,7 @@ Oto jak na [Hackathonie Hack4Change](https://hack4change.tech/) do naokularnego 
 
 ![Termowizja](_pics/pic_amg8833_02.jpg)<br>
 
-(To moduł termowizji, nie kamera IR a pomiar temperatury!)
+(To moduł termowizji, nie kamera IR a wizualizacja temperatury!)
 
 ... by uzyskać to:
 
@@ -43,7 +43,7 @@ Może plama na terminalu mało wyjaśnia, więc zamontuję i włączę jeszcze k
 ![Termowizja](_pics/pic_amg8833_view02.jpg)<br>
 
 To pokazuje jeden z moich ekranów, i pod nim ekran laptopa<br>
-Jak widać, oa trochę się grzeją :)
+Jak widać, oba trochę się grzeją :)
 
 ![Termowizja](_pics/pic_amg8833_view03.jpg)<br>
 
