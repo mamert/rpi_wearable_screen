@@ -27,7 +27,7 @@ Raspberry Pi Zero W + microdisplay nad okiem
 [![](_pics/index/tn_sec05.jpg)](05_Kamera.md)
 
 ### [06_Termowizja:	Dołożenie termowizji](06_Termowizja.md)
-[![](_pics/index/tn_sec06.jpg)](05_Termowizja.md)
+[![](_pics/index/tn_sec06.jpg)](06_Termowizja.md)
 
 ### [07_Termowizja:	LEPSZA termowizja](07_Termowizja2.md)
 [![](_pics/index/tn_sec07.jpg)](07_Termowizja2.md)
