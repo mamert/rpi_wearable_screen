@@ -13,6 +13,10 @@ Jasność LED zależy od tego jak jest ciemno.
 
 Sklejone razem i uztywnione barwionym na szaro PCL.
 
+Mocowane do reszty przez przypięcie taśmy z przewodami, zahaczenie o istniejącą obudowę, i zamocowanie na... rzep... coś jak rzep, tylko takie silne do mocowania obrazów na ścianę.
+
+Mogłem umocować trwale ale chciałem się pobawić.
+
 ![bigcam](_pics/pic_bigcam_mod_03.jpg)
 
 Co to daje? Mogę widzieć przed okiem obraz z kamerki.<br>
