@@ -37,7 +37,9 @@ Ekraniki zniknęły ze sprzedaży bez śladu.<br>
 ### Teraz
 
 
-W **2020** znalazłem inny mikroekranik, chyba z podglądu jakiegoś cyfrowego aparatu fotograficznego.<br>
+W **2020** kupiłem inny mikroekranik, chyba z podglądu jakiegoś cyfrowego aparatu fotograficznego.<br>
+Znaleź takie można czasem u chińskich sprzedawców online, szukaj "display, fpv, viewfinder"; od \$50 można dostać.<br>
+Różnią się bardzo od siebie, nie potrafię pomóc, ten nawet ma zatarte oznaczenie procka.<br>
 
 ![mikroekranik](_pics/pic_microdisp_01.jpg)
 

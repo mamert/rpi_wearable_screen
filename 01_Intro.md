@@ -32,13 +32,12 @@ Wariant Zero jest MAŁY. Nie znam żadnego produktu który rozmiarem zbliżałby
 
 ## Checklista
 * okulary (na coś trzeba to zamontować :) )
-* mikroekranik (szukaj w Chińskich ofertach "display, fpv, viewfinder"; od \$50)
+* [mikroekranik](02_Historia.md#teraz)
 * komputerek Raspberry Pi 0 W
 * karta MicroSD do RPi
 * kabelki
 * bateria
 * PCL (Polymorph) do zmontowania tego razem
-
 
 
 
